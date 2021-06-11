@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ervin/workspace/untitled/store/AlreadyClosedException.cpp
+
+/Users/ervin/workspace/untitled/store/BaseDirectory.cpp
+
+/Users/ervin/workspace/untitled/store/BufferedChecksum.cpp
+
+/Users/ervin/workspace/untitled/store/BufferedChecksumIndexInput.cpp
+
+/Users/ervin/workspace/untitled/store/BufferedIndexInput.cpp
+
+/Users/ervin/workspace/untitled/store/ByteArrayDataInput.cpp
+
+/Users/ervin/workspace/untitled/store/ByteArrayDataOutput.cpp
+
+/Users/ervin/workspace/untitled/store/ByteBufferGuard.cpp
+
+/Users/ervin/workspace/untitled/store/ByteBufferIndexInput.cpp
+
