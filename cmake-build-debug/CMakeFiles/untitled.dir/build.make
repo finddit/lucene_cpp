@@ -662,6 +662,175 @@ CMakeFiles/untitled.dir/queryParser/QueryParser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/queryParser/QueryParser.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ervin/workspace/untitled/queryParser/QueryParser.cpp -o CMakeFiles/untitled.dir/queryParser/QueryParser.cpp.s
 
+CMakeFiles/untitled.dir/store/ByteBuffersDataInput.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/store/ByteBuffersDataInput.cpp.o: ../store/ByteBuffersDataInput.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ervin/workspace/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/untitled.dir/store/ByteBuffersDataInput.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/store/ByteBuffersDataInput.cpp.o -c /Users/ervin/workspace/untitled/store/ByteBuffersDataInput.cpp
+
+CMakeFiles/untitled.dir/store/ByteBuffersDataInput.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/store/ByteBuffersDataInput.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ervin/workspace/untitled/store/ByteBuffersDataInput.cpp > CMakeFiles/untitled.dir/store/ByteBuffersDataInput.cpp.i
+
+CMakeFiles/untitled.dir/store/ByteBuffersDataInput.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/store/ByteBuffersDataInput.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ervin/workspace/untitled/store/ByteBuffersDataInput.cpp -o CMakeFiles/untitled.dir/store/ByteBuffersDataInput.cpp.s
+
+CMakeFiles/untitled.dir/store/ByteBuffersDataOutput.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/store/ByteBuffersDataOutput.cpp.o: ../store/ByteBuffersDataOutput.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ervin/workspace/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/untitled.dir/store/ByteBuffersDataOutput.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/store/ByteBuffersDataOutput.cpp.o -c /Users/ervin/workspace/untitled/store/ByteBuffersDataOutput.cpp
+
+CMakeFiles/untitled.dir/store/ByteBuffersDataOutput.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/store/ByteBuffersDataOutput.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ervin/workspace/untitled/store/ByteBuffersDataOutput.cpp > CMakeFiles/untitled.dir/store/ByteBuffersDataOutput.cpp.i
+
+CMakeFiles/untitled.dir/store/ByteBuffersDataOutput.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/store/ByteBuffersDataOutput.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ervin/workspace/untitled/store/ByteBuffersDataOutput.cpp -o CMakeFiles/untitled.dir/store/ByteBuffersDataOutput.cpp.s
+
+CMakeFiles/untitled.dir/store/ByteBuffersDirectory.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/store/ByteBuffersDirectory.cpp.o: ../store/ByteBuffersDirectory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ervin/workspace/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/untitled.dir/store/ByteBuffersDirectory.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/store/ByteBuffersDirectory.cpp.o -c /Users/ervin/workspace/untitled/store/ByteBuffersDirectory.cpp
+
+CMakeFiles/untitled.dir/store/ByteBuffersDirectory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/store/ByteBuffersDirectory.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ervin/workspace/untitled/store/ByteBuffersDirectory.cpp > CMakeFiles/untitled.dir/store/ByteBuffersDirectory.cpp.i
+
+CMakeFiles/untitled.dir/store/ByteBuffersDirectory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/store/ByteBuffersDirectory.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ervin/workspace/untitled/store/ByteBuffersDirectory.cpp -o CMakeFiles/untitled.dir/store/ByteBuffersDirectory.cpp.s
+
+CMakeFiles/untitled.dir/store/ByteBuffersIndexInput.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/store/ByteBuffersIndexInput.cpp.o: ../store/ByteBuffersIndexInput.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ervin/workspace/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/untitled.dir/store/ByteBuffersIndexInput.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/store/ByteBuffersIndexInput.cpp.o -c /Users/ervin/workspace/untitled/store/ByteBuffersIndexInput.cpp
+
+CMakeFiles/untitled.dir/store/ByteBuffersIndexInput.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/store/ByteBuffersIndexInput.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ervin/workspace/untitled/store/ByteBuffersIndexInput.cpp > CMakeFiles/untitled.dir/store/ByteBuffersIndexInput.cpp.i
+
+CMakeFiles/untitled.dir/store/ByteBuffersIndexInput.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/store/ByteBuffersIndexInput.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ervin/workspace/untitled/store/ByteBuffersIndexInput.cpp -o CMakeFiles/untitled.dir/store/ByteBuffersIndexInput.cpp.s
+
+CMakeFiles/untitled.dir/store/ByteBuffersIndexOutput.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/store/ByteBuffersIndexOutput.cpp.o: ../store/ByteBuffersIndexOutput.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ervin/workspace/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/untitled.dir/store/ByteBuffersIndexOutput.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/store/ByteBuffersIndexOutput.cpp.o -c /Users/ervin/workspace/untitled/store/ByteBuffersIndexOutput.cpp
+
+CMakeFiles/untitled.dir/store/ByteBuffersIndexOutput.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/store/ByteBuffersIndexOutput.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ervin/workspace/untitled/store/ByteBuffersIndexOutput.cpp > CMakeFiles/untitled.dir/store/ByteBuffersIndexOutput.cpp.i
+
+CMakeFiles/untitled.dir/store/ByteBuffersIndexOutput.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/store/ByteBuffersIndexOutput.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ervin/workspace/untitled/store/ByteBuffersIndexOutput.cpp -o CMakeFiles/untitled.dir/store/ByteBuffersIndexOutput.cpp.s
+
+CMakeFiles/untitled.dir/store/ChecksumIndexInput.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/store/ChecksumIndexInput.cpp.o: ../store/ChecksumIndexInput.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ervin/workspace/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/untitled.dir/store/ChecksumIndexInput.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/store/ChecksumIndexInput.cpp.o -c /Users/ervin/workspace/untitled/store/ChecksumIndexInput.cpp
+
+CMakeFiles/untitled.dir/store/ChecksumIndexInput.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/store/ChecksumIndexInput.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ervin/workspace/untitled/store/ChecksumIndexInput.cpp > CMakeFiles/untitled.dir/store/ChecksumIndexInput.cpp.i
+
+CMakeFiles/untitled.dir/store/ChecksumIndexInput.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/store/ChecksumIndexInput.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ervin/workspace/untitled/store/ChecksumIndexInput.cpp -o CMakeFiles/untitled.dir/store/ChecksumIndexInput.cpp.s
+
+CMakeFiles/untitled.dir/store/DataInput.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/store/DataInput.cpp.o: ../store/DataInput.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ervin/workspace/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/untitled.dir/store/DataInput.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/store/DataInput.cpp.o -c /Users/ervin/workspace/untitled/store/DataInput.cpp
+
+CMakeFiles/untitled.dir/store/DataInput.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/store/DataInput.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ervin/workspace/untitled/store/DataInput.cpp > CMakeFiles/untitled.dir/store/DataInput.cpp.i
+
+CMakeFiles/untitled.dir/store/DataInput.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/store/DataInput.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ervin/workspace/untitled/store/DataInput.cpp -o CMakeFiles/untitled.dir/store/DataInput.cpp.s
+
+CMakeFiles/untitled.dir/store/DataOutput.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/store/DataOutput.cpp.o: ../store/DataOutput.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ervin/workspace/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/untitled.dir/store/DataOutput.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/store/DataOutput.cpp.o -c /Users/ervin/workspace/untitled/store/DataOutput.cpp
+
+CMakeFiles/untitled.dir/store/DataOutput.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/store/DataOutput.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ervin/workspace/untitled/store/DataOutput.cpp > CMakeFiles/untitled.dir/store/DataOutput.cpp.i
+
+CMakeFiles/untitled.dir/store/DataOutput.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/store/DataOutput.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ervin/workspace/untitled/store/DataOutput.cpp -o CMakeFiles/untitled.dir/store/DataOutput.cpp.s
+
+CMakeFiles/untitled.dir/store/FileSwitchDirectory.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/store/FileSwitchDirectory.cpp.o: ../store/FileSwitchDirectory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ervin/workspace/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/untitled.dir/store/FileSwitchDirectory.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/store/FileSwitchDirectory.cpp.o -c /Users/ervin/workspace/untitled/store/FileSwitchDirectory.cpp
+
+CMakeFiles/untitled.dir/store/FileSwitchDirectory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/store/FileSwitchDirectory.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ervin/workspace/untitled/store/FileSwitchDirectory.cpp > CMakeFiles/untitled.dir/store/FileSwitchDirectory.cpp.i
+
+CMakeFiles/untitled.dir/store/FileSwitchDirectory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/store/FileSwitchDirectory.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ervin/workspace/untitled/store/FileSwitchDirectory.cpp -o CMakeFiles/untitled.dir/store/FileSwitchDirectory.cpp.s
+
+CMakeFiles/untitled.dir/store/FlushInfo.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/store/FlushInfo.cpp.o: ../store/FlushInfo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ervin/workspace/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/untitled.dir/store/FlushInfo.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/store/FlushInfo.cpp.o -c /Users/ervin/workspace/untitled/store/FlushInfo.cpp
+
+CMakeFiles/untitled.dir/store/FlushInfo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/store/FlushInfo.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ervin/workspace/untitled/store/FlushInfo.cpp > CMakeFiles/untitled.dir/store/FlushInfo.cpp.i
+
+CMakeFiles/untitled.dir/store/FlushInfo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/store/FlushInfo.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ervin/workspace/untitled/store/FlushInfo.cpp -o CMakeFiles/untitled.dir/store/FlushInfo.cpp.s
+
+CMakeFiles/untitled.dir/store/FSDirectory.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/store/FSDirectory.cpp.o: ../store/FSDirectory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ervin/workspace/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/untitled.dir/store/FSDirectory.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/store/FSDirectory.cpp.o -c /Users/ervin/workspace/untitled/store/FSDirectory.cpp
+
+CMakeFiles/untitled.dir/store/FSDirectory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/store/FSDirectory.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ervin/workspace/untitled/store/FSDirectory.cpp > CMakeFiles/untitled.dir/store/FSDirectory.cpp.i
+
+CMakeFiles/untitled.dir/store/FSDirectory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/store/FSDirectory.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ervin/workspace/untitled/store/FSDirectory.cpp -o CMakeFiles/untitled.dir/store/FSDirectory.cpp.s
+
+CMakeFiles/untitled.dir/store/FSLockFactory.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/store/FSLockFactory.cpp.o: ../store/FSLockFactory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ervin/workspace/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/untitled.dir/store/FSLockFactory.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/store/FSLockFactory.cpp.o -c /Users/ervin/workspace/untitled/store/FSLockFactory.cpp
+
+CMakeFiles/untitled.dir/store/FSLockFactory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/store/FSLockFactory.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ervin/workspace/untitled/store/FSLockFactory.cpp > CMakeFiles/untitled.dir/store/FSLockFactory.cpp.i
+
+CMakeFiles/untitled.dir/store/FSLockFactory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/store/FSLockFactory.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ervin/workspace/untitled/store/FSLockFactory.cpp -o CMakeFiles/untitled.dir/store/FSLockFactory.cpp.s
+
+CMakeFiles/untitled.dir/store/InputStreamDataInput.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/store/InputStreamDataInput.cpp.o: ../store/InputStreamDataInput.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ervin/workspace/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/untitled.dir/store/InputStreamDataInput.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/store/InputStreamDataInput.cpp.o -c /Users/ervin/workspace/untitled/store/InputStreamDataInput.cpp
+
+CMakeFiles/untitled.dir/store/InputStreamDataInput.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/store/InputStreamDataInput.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ervin/workspace/untitled/store/InputStreamDataInput.cpp > CMakeFiles/untitled.dir/store/InputStreamDataInput.cpp.i
+
+CMakeFiles/untitled.dir/store/InputStreamDataInput.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/store/InputStreamDataInput.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ervin/workspace/untitled/store/InputStreamDataInput.cpp -o CMakeFiles/untitled.dir/store/InputStreamDataInput.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/main.cpp.o" \
@@ -708,7 +877,20 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/index/Term.cpp.o" \
 "CMakeFiles/untitled.dir/document/Field.cpp.o" \
 "CMakeFiles/untitled.dir/analysis/Analyzers.cpp.o" \
-"CMakeFiles/untitled.dir/queryParser/QueryParser.cpp.o"
+"CMakeFiles/untitled.dir/queryParser/QueryParser.cpp.o" \
+"CMakeFiles/untitled.dir/store/ByteBuffersDataInput.cpp.o" \
+"CMakeFiles/untitled.dir/store/ByteBuffersDataOutput.cpp.o" \
+"CMakeFiles/untitled.dir/store/ByteBuffersDirectory.cpp.o" \
+"CMakeFiles/untitled.dir/store/ByteBuffersIndexInput.cpp.o" \
+"CMakeFiles/untitled.dir/store/ByteBuffersIndexOutput.cpp.o" \
+"CMakeFiles/untitled.dir/store/ChecksumIndexInput.cpp.o" \
+"CMakeFiles/untitled.dir/store/DataInput.cpp.o" \
+"CMakeFiles/untitled.dir/store/DataOutput.cpp.o" \
+"CMakeFiles/untitled.dir/store/FileSwitchDirectory.cpp.o" \
+"CMakeFiles/untitled.dir/store/FlushInfo.cpp.o" \
+"CMakeFiles/untitled.dir/store/FSDirectory.cpp.o" \
+"CMakeFiles/untitled.dir/store/FSLockFactory.cpp.o" \
+"CMakeFiles/untitled.dir/store/InputStreamDataInput.cpp.o"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -758,9 +940,22 @@ untitled: CMakeFiles/untitled.dir/index/Term.cpp.o
 untitled: CMakeFiles/untitled.dir/document/Field.cpp.o
 untitled: CMakeFiles/untitled.dir/analysis/Analyzers.cpp.o
 untitled: CMakeFiles/untitled.dir/queryParser/QueryParser.cpp.o
+untitled: CMakeFiles/untitled.dir/store/ByteBuffersDataInput.cpp.o
+untitled: CMakeFiles/untitled.dir/store/ByteBuffersDataOutput.cpp.o
+untitled: CMakeFiles/untitled.dir/store/ByteBuffersDirectory.cpp.o
+untitled: CMakeFiles/untitled.dir/store/ByteBuffersIndexInput.cpp.o
+untitled: CMakeFiles/untitled.dir/store/ByteBuffersIndexOutput.cpp.o
+untitled: CMakeFiles/untitled.dir/store/ChecksumIndexInput.cpp.o
+untitled: CMakeFiles/untitled.dir/store/DataInput.cpp.o
+untitled: CMakeFiles/untitled.dir/store/DataOutput.cpp.o
+untitled: CMakeFiles/untitled.dir/store/FileSwitchDirectory.cpp.o
+untitled: CMakeFiles/untitled.dir/store/FlushInfo.cpp.o
+untitled: CMakeFiles/untitled.dir/store/FSDirectory.cpp.o
+untitled: CMakeFiles/untitled.dir/store/FSLockFactory.cpp.o
+untitled: CMakeFiles/untitled.dir/store/InputStreamDataInput.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/ervin/workspace/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/ervin/workspace/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

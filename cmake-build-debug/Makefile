@@ -548,6 +548,222 @@ store/ByteBufferIndexInput.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ByteBufferIndexInput.cpp.s
 .PHONY : store/ByteBufferIndexInput.cpp.s
 
+store/ByteBuffersDataInput.o: store/ByteBuffersDataInput.cpp.o
+
+.PHONY : store/ByteBuffersDataInput.o
+
+# target to build an object file
+store/ByteBuffersDataInput.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ByteBuffersDataInput.cpp.o
+.PHONY : store/ByteBuffersDataInput.cpp.o
+
+store/ByteBuffersDataInput.i: store/ByteBuffersDataInput.cpp.i
+
+.PHONY : store/ByteBuffersDataInput.i
+
+# target to preprocess a source file
+store/ByteBuffersDataInput.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ByteBuffersDataInput.cpp.i
+.PHONY : store/ByteBuffersDataInput.cpp.i
+
+store/ByteBuffersDataInput.s: store/ByteBuffersDataInput.cpp.s
+
+.PHONY : store/ByteBuffersDataInput.s
+
+# target to generate assembly for a file
+store/ByteBuffersDataInput.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ByteBuffersDataInput.cpp.s
+.PHONY : store/ByteBuffersDataInput.cpp.s
+
+store/ByteBuffersDataOutput.o: store/ByteBuffersDataOutput.cpp.o
+
+.PHONY : store/ByteBuffersDataOutput.o
+
+# target to build an object file
+store/ByteBuffersDataOutput.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ByteBuffersDataOutput.cpp.o
+.PHONY : store/ByteBuffersDataOutput.cpp.o
+
+store/ByteBuffersDataOutput.i: store/ByteBuffersDataOutput.cpp.i
+
+.PHONY : store/ByteBuffersDataOutput.i
+
+# target to preprocess a source file
+store/ByteBuffersDataOutput.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ByteBuffersDataOutput.cpp.i
+.PHONY : store/ByteBuffersDataOutput.cpp.i
+
+store/ByteBuffersDataOutput.s: store/ByteBuffersDataOutput.cpp.s
+
+.PHONY : store/ByteBuffersDataOutput.s
+
+# target to generate assembly for a file
+store/ByteBuffersDataOutput.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ByteBuffersDataOutput.cpp.s
+.PHONY : store/ByteBuffersDataOutput.cpp.s
+
+store/ByteBuffersDirectory.o: store/ByteBuffersDirectory.cpp.o
+
+.PHONY : store/ByteBuffersDirectory.o
+
+# target to build an object file
+store/ByteBuffersDirectory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ByteBuffersDirectory.cpp.o
+.PHONY : store/ByteBuffersDirectory.cpp.o
+
+store/ByteBuffersDirectory.i: store/ByteBuffersDirectory.cpp.i
+
+.PHONY : store/ByteBuffersDirectory.i
+
+# target to preprocess a source file
+store/ByteBuffersDirectory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ByteBuffersDirectory.cpp.i
+.PHONY : store/ByteBuffersDirectory.cpp.i
+
+store/ByteBuffersDirectory.s: store/ByteBuffersDirectory.cpp.s
+
+.PHONY : store/ByteBuffersDirectory.s
+
+# target to generate assembly for a file
+store/ByteBuffersDirectory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ByteBuffersDirectory.cpp.s
+.PHONY : store/ByteBuffersDirectory.cpp.s
+
+store/ByteBuffersIndexInput.o: store/ByteBuffersIndexInput.cpp.o
+
+.PHONY : store/ByteBuffersIndexInput.o
+
+# target to build an object file
+store/ByteBuffersIndexInput.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ByteBuffersIndexInput.cpp.o
+.PHONY : store/ByteBuffersIndexInput.cpp.o
+
+store/ByteBuffersIndexInput.i: store/ByteBuffersIndexInput.cpp.i
+
+.PHONY : store/ByteBuffersIndexInput.i
+
+# target to preprocess a source file
+store/ByteBuffersIndexInput.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ByteBuffersIndexInput.cpp.i
+.PHONY : store/ByteBuffersIndexInput.cpp.i
+
+store/ByteBuffersIndexInput.s: store/ByteBuffersIndexInput.cpp.s
+
+.PHONY : store/ByteBuffersIndexInput.s
+
+# target to generate assembly for a file
+store/ByteBuffersIndexInput.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ByteBuffersIndexInput.cpp.s
+.PHONY : store/ByteBuffersIndexInput.cpp.s
+
+store/ByteBuffersIndexOutput.o: store/ByteBuffersIndexOutput.cpp.o
+
+.PHONY : store/ByteBuffersIndexOutput.o
+
+# target to build an object file
+store/ByteBuffersIndexOutput.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ByteBuffersIndexOutput.cpp.o
+.PHONY : store/ByteBuffersIndexOutput.cpp.o
+
+store/ByteBuffersIndexOutput.i: store/ByteBuffersIndexOutput.cpp.i
+
+.PHONY : store/ByteBuffersIndexOutput.i
+
+# target to preprocess a source file
+store/ByteBuffersIndexOutput.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ByteBuffersIndexOutput.cpp.i
+.PHONY : store/ByteBuffersIndexOutput.cpp.i
+
+store/ByteBuffersIndexOutput.s: store/ByteBuffersIndexOutput.cpp.s
+
+.PHONY : store/ByteBuffersIndexOutput.s
+
+# target to generate assembly for a file
+store/ByteBuffersIndexOutput.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ByteBuffersIndexOutput.cpp.s
+.PHONY : store/ByteBuffersIndexOutput.cpp.s
+
+store/ChecksumIndexInput.o: store/ChecksumIndexInput.cpp.o
+
+.PHONY : store/ChecksumIndexInput.o
+
+# target to build an object file
+store/ChecksumIndexInput.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ChecksumIndexInput.cpp.o
+.PHONY : store/ChecksumIndexInput.cpp.o
+
+store/ChecksumIndexInput.i: store/ChecksumIndexInput.cpp.i
+
+.PHONY : store/ChecksumIndexInput.i
+
+# target to preprocess a source file
+store/ChecksumIndexInput.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ChecksumIndexInput.cpp.i
+.PHONY : store/ChecksumIndexInput.cpp.i
+
+store/ChecksumIndexInput.s: store/ChecksumIndexInput.cpp.s
+
+.PHONY : store/ChecksumIndexInput.s
+
+# target to generate assembly for a file
+store/ChecksumIndexInput.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/ChecksumIndexInput.cpp.s
+.PHONY : store/ChecksumIndexInput.cpp.s
+
+store/DataInput.o: store/DataInput.cpp.o
+
+.PHONY : store/DataInput.o
+
+# target to build an object file
+store/DataInput.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/DataInput.cpp.o
+.PHONY : store/DataInput.cpp.o
+
+store/DataInput.i: store/DataInput.cpp.i
+
+.PHONY : store/DataInput.i
+
+# target to preprocess a source file
+store/DataInput.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/DataInput.cpp.i
+.PHONY : store/DataInput.cpp.i
+
+store/DataInput.s: store/DataInput.cpp.s
+
+.PHONY : store/DataInput.s
+
+# target to generate assembly for a file
+store/DataInput.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/DataInput.cpp.s
+.PHONY : store/DataInput.cpp.s
+
+store/DataOutput.o: store/DataOutput.cpp.o
+
+.PHONY : store/DataOutput.o
+
+# target to build an object file
+store/DataOutput.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/DataOutput.cpp.o
+.PHONY : store/DataOutput.cpp.o
+
+store/DataOutput.i: store/DataOutput.cpp.i
+
+.PHONY : store/DataOutput.i
+
+# target to preprocess a source file
+store/DataOutput.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/DataOutput.cpp.i
+.PHONY : store/DataOutput.cpp.i
+
+store/DataOutput.s: store/DataOutput.cpp.s
+
+.PHONY : store/DataOutput.s
+
+# target to generate assembly for a file
+store/DataOutput.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/DataOutput.cpp.s
+.PHONY : store/DataOutput.cpp.s
+
 store/Directory.o: store/Directory.cpp.o
 
 .PHONY : store/Directory.o
@@ -575,6 +791,87 @@ store/Directory.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/Directory.cpp.s
 .PHONY : store/Directory.cpp.s
 
+store/FSDirectory.o: store/FSDirectory.cpp.o
+
+.PHONY : store/FSDirectory.o
+
+# target to build an object file
+store/FSDirectory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/FSDirectory.cpp.o
+.PHONY : store/FSDirectory.cpp.o
+
+store/FSDirectory.i: store/FSDirectory.cpp.i
+
+.PHONY : store/FSDirectory.i
+
+# target to preprocess a source file
+store/FSDirectory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/FSDirectory.cpp.i
+.PHONY : store/FSDirectory.cpp.i
+
+store/FSDirectory.s: store/FSDirectory.cpp.s
+
+.PHONY : store/FSDirectory.s
+
+# target to generate assembly for a file
+store/FSDirectory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/FSDirectory.cpp.s
+.PHONY : store/FSDirectory.cpp.s
+
+store/FSLockFactory.o: store/FSLockFactory.cpp.o
+
+.PHONY : store/FSLockFactory.o
+
+# target to build an object file
+store/FSLockFactory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/FSLockFactory.cpp.o
+.PHONY : store/FSLockFactory.cpp.o
+
+store/FSLockFactory.i: store/FSLockFactory.cpp.i
+
+.PHONY : store/FSLockFactory.i
+
+# target to preprocess a source file
+store/FSLockFactory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/FSLockFactory.cpp.i
+.PHONY : store/FSLockFactory.cpp.i
+
+store/FSLockFactory.s: store/FSLockFactory.cpp.s
+
+.PHONY : store/FSLockFactory.s
+
+# target to generate assembly for a file
+store/FSLockFactory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/FSLockFactory.cpp.s
+.PHONY : store/FSLockFactory.cpp.s
+
+store/FileSwitchDirectory.o: store/FileSwitchDirectory.cpp.o
+
+.PHONY : store/FileSwitchDirectory.o
+
+# target to build an object file
+store/FileSwitchDirectory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/FileSwitchDirectory.cpp.o
+.PHONY : store/FileSwitchDirectory.cpp.o
+
+store/FileSwitchDirectory.i: store/FileSwitchDirectory.cpp.i
+
+.PHONY : store/FileSwitchDirectory.i
+
+# target to preprocess a source file
+store/FileSwitchDirectory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/FileSwitchDirectory.cpp.i
+.PHONY : store/FileSwitchDirectory.cpp.i
+
+store/FileSwitchDirectory.s: store/FileSwitchDirectory.cpp.s
+
+.PHONY : store/FileSwitchDirectory.s
+
+# target to generate assembly for a file
+store/FileSwitchDirectory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/FileSwitchDirectory.cpp.s
+.PHONY : store/FileSwitchDirectory.cpp.s
+
 store/FilterDirectory.o: store/FilterDirectory.cpp.o
 
 .PHONY : store/FilterDirectory.o
@@ -601,6 +898,33 @@ store/FilterDirectory.s: store/FilterDirectory.cpp.s
 store/FilterDirectory.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/FilterDirectory.cpp.s
 .PHONY : store/FilterDirectory.cpp.s
+
+store/FlushInfo.o: store/FlushInfo.cpp.o
+
+.PHONY : store/FlushInfo.o
+
+# target to build an object file
+store/FlushInfo.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/FlushInfo.cpp.o
+.PHONY : store/FlushInfo.cpp.o
+
+store/FlushInfo.i: store/FlushInfo.cpp.i
+
+.PHONY : store/FlushInfo.i
+
+# target to preprocess a source file
+store/FlushInfo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/FlushInfo.cpp.i
+.PHONY : store/FlushInfo.cpp.i
+
+store/FlushInfo.s: store/FlushInfo.cpp.s
+
+.PHONY : store/FlushInfo.s
+
+# target to generate assembly for a file
+store/FlushInfo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/FlushInfo.cpp.s
+.PHONY : store/FlushInfo.cpp.s
 
 store/IOContext.o: store/IOContext.cpp.o
 
@@ -682,6 +1006,33 @@ store/IndexOutput.s: store/IndexOutput.cpp.s
 store/IndexOutput.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/IndexOutput.cpp.s
 .PHONY : store/IndexOutput.cpp.s
+
+store/InputStreamDataInput.o: store/InputStreamDataInput.cpp.o
+
+.PHONY : store/InputStreamDataInput.o
+
+# target to build an object file
+store/InputStreamDataInput.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/InputStreamDataInput.cpp.o
+.PHONY : store/InputStreamDataInput.cpp.o
+
+store/InputStreamDataInput.i: store/InputStreamDataInput.cpp.i
+
+.PHONY : store/InputStreamDataInput.i
+
+# target to preprocess a source file
+store/InputStreamDataInput.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/InputStreamDataInput.cpp.i
+.PHONY : store/InputStreamDataInput.cpp.i
+
+store/InputStreamDataInput.s: store/InputStreamDataInput.cpp.s
+
+.PHONY : store/InputStreamDataInput.s
+
+# target to generate assembly for a file
+store/InputStreamDataInput.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/InputStreamDataInput.cpp.s
+.PHONY : store/InputStreamDataInput.cpp.s
 
 store/Lock.o: store/Lock.cpp.o
 
@@ -1412,12 +1763,48 @@ help:
 	@echo "... store/ByteBufferIndexInput.o"
 	@echo "... store/ByteBufferIndexInput.i"
 	@echo "... store/ByteBufferIndexInput.s"
+	@echo "... store/ByteBuffersDataInput.o"
+	@echo "... store/ByteBuffersDataInput.i"
+	@echo "... store/ByteBuffersDataInput.s"
+	@echo "... store/ByteBuffersDataOutput.o"
+	@echo "... store/ByteBuffersDataOutput.i"
+	@echo "... store/ByteBuffersDataOutput.s"
+	@echo "... store/ByteBuffersDirectory.o"
+	@echo "... store/ByteBuffersDirectory.i"
+	@echo "... store/ByteBuffersDirectory.s"
+	@echo "... store/ByteBuffersIndexInput.o"
+	@echo "... store/ByteBuffersIndexInput.i"
+	@echo "... store/ByteBuffersIndexInput.s"
+	@echo "... store/ByteBuffersIndexOutput.o"
+	@echo "... store/ByteBuffersIndexOutput.i"
+	@echo "... store/ByteBuffersIndexOutput.s"
+	@echo "... store/ChecksumIndexInput.o"
+	@echo "... store/ChecksumIndexInput.i"
+	@echo "... store/ChecksumIndexInput.s"
+	@echo "... store/DataInput.o"
+	@echo "... store/DataInput.i"
+	@echo "... store/DataInput.s"
+	@echo "... store/DataOutput.o"
+	@echo "... store/DataOutput.i"
+	@echo "... store/DataOutput.s"
 	@echo "... store/Directory.o"
 	@echo "... store/Directory.i"
 	@echo "... store/Directory.s"
+	@echo "... store/FSDirectory.o"
+	@echo "... store/FSDirectory.i"
+	@echo "... store/FSDirectory.s"
+	@echo "... store/FSLockFactory.o"
+	@echo "... store/FSLockFactory.i"
+	@echo "... store/FSLockFactory.s"
+	@echo "... store/FileSwitchDirectory.o"
+	@echo "... store/FileSwitchDirectory.i"
+	@echo "... store/FileSwitchDirectory.s"
 	@echo "... store/FilterDirectory.o"
 	@echo "... store/FilterDirectory.i"
 	@echo "... store/FilterDirectory.s"
+	@echo "... store/FlushInfo.o"
+	@echo "... store/FlushInfo.i"
+	@echo "... store/FlushInfo.s"
 	@echo "... store/IOContext.o"
 	@echo "... store/IOContext.i"
 	@echo "... store/IOContext.s"
@@ -1427,6 +1814,9 @@ help:
 	@echo "... store/IndexOutput.o"
 	@echo "... store/IndexOutput.i"
 	@echo "... store/IndexOutput.s"
+	@echo "... store/InputStreamDataInput.o"
+	@echo "... store/InputStreamDataInput.i"
+	@echo "... store/InputStreamDataInput.s"
 	@echo "... store/Lock.o"
 	@echo "... store/Lock.i"
 	@echo "... store/Lock.s"
