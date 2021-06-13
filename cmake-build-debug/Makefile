@@ -143,6 +143,87 @@ untitled/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
+analysis/Analyzers.o: analysis/Analyzers.cpp.o
+
+.PHONY : analysis/Analyzers.o
+
+# target to build an object file
+analysis/Analyzers.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/analysis/Analyzers.cpp.o
+.PHONY : analysis/Analyzers.cpp.o
+
+analysis/Analyzers.i: analysis/Analyzers.cpp.i
+
+.PHONY : analysis/Analyzers.i
+
+# target to preprocess a source file
+analysis/Analyzers.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/analysis/Analyzers.cpp.i
+.PHONY : analysis/Analyzers.cpp.i
+
+analysis/Analyzers.s: analysis/Analyzers.cpp.s
+
+.PHONY : analysis/Analyzers.s
+
+# target to generate assembly for a file
+analysis/Analyzers.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/analysis/Analyzers.cpp.s
+.PHONY : analysis/Analyzers.cpp.s
+
+document/Field.o: document/Field.cpp.o
+
+.PHONY : document/Field.o
+
+# target to build an object file
+document/Field.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/document/Field.cpp.o
+.PHONY : document/Field.cpp.o
+
+document/Field.i: document/Field.cpp.i
+
+.PHONY : document/Field.i
+
+# target to preprocess a source file
+document/Field.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/document/Field.cpp.i
+.PHONY : document/Field.cpp.i
+
+document/Field.s: document/Field.cpp.s
+
+.PHONY : document/Field.s
+
+# target to generate assembly for a file
+document/Field.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/document/Field.cpp.s
+.PHONY : document/Field.cpp.s
+
+index/Term.o: index/Term.cpp.o
+
+.PHONY : index/Term.o
+
+# target to build an object file
+index/Term.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/index/Term.cpp.o
+.PHONY : index/Term.cpp.o
+
+index/Term.i: index/Term.cpp.i
+
+.PHONY : index/Term.i
+
+# target to preprocess a source file
+index/Term.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/index/Term.cpp.i
+.PHONY : index/Term.cpp.i
+
+index/Term.s: index/Term.cpp.s
+
+.PHONY : index/Term.s
+
+# target to generate assembly for a file
+index/Term.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/index/Term.cpp.s
+.PHONY : index/Term.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -169,6 +250,33 @@ main.s: main.cpp.s
 main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/main.cpp.s
 .PHONY : main.cpp.s
+
+queryParser/QueryParser.o: queryParser/QueryParser.cpp.o
+
+.PHONY : queryParser/QueryParser.o
+
+# target to build an object file
+queryParser/QueryParser.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/queryParser/QueryParser.cpp.o
+.PHONY : queryParser/QueryParser.cpp.o
+
+queryParser/QueryParser.i: queryParser/QueryParser.cpp.i
+
+.PHONY : queryParser/QueryParser.i
+
+# target to preprocess a source file
+queryParser/QueryParser.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/queryParser/QueryParser.cpp.i
+.PHONY : queryParser/QueryParser.cpp.i
+
+queryParser/QueryParser.s: queryParser/QueryParser.cpp.s
+
+.PHONY : queryParser/QueryParser.s
+
+# target to generate assembly for a file
+queryParser/QueryParser.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/queryParser/QueryParser.cpp.s
+.PHONY : queryParser/QueryParser.cpp.s
 
 search/AutomatonQuery.o: search/AutomatonQuery.cpp.o
 
@@ -521,6 +629,33 @@ store/IOContext.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/IOContext.cpp.s
 .PHONY : store/IOContext.cpp.s
 
+store/IndexInput.o: store/IndexInput.cpp.o
+
+.PHONY : store/IndexInput.o
+
+# target to build an object file
+store/IndexInput.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/IndexInput.cpp.o
+.PHONY : store/IndexInput.cpp.o
+
+store/IndexInput.i: store/IndexInput.cpp.i
+
+.PHONY : store/IndexInput.i
+
+# target to preprocess a source file
+store/IndexInput.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/IndexInput.cpp.i
+.PHONY : store/IndexInput.cpp.i
+
+store/IndexInput.s: store/IndexInput.cpp.s
+
+.PHONY : store/IndexInput.s
+
+# target to generate assembly for a file
+store/IndexInput.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/IndexInput.cpp.s
+.PHONY : store/IndexInput.cpp.s
+
 store/IndexOutput.o: store/IndexOutput.cpp.o
 
 .PHONY : store/IndexOutput.o
@@ -547,6 +682,276 @@ store/IndexOutput.s: store/IndexOutput.cpp.s
 store/IndexOutput.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/IndexOutput.cpp.s
 .PHONY : store/IndexOutput.cpp.s
+
+store/Lock.o: store/Lock.cpp.o
+
+.PHONY : store/Lock.o
+
+# target to build an object file
+store/Lock.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/Lock.cpp.o
+.PHONY : store/Lock.cpp.o
+
+store/Lock.i: store/Lock.cpp.i
+
+.PHONY : store/Lock.i
+
+# target to preprocess a source file
+store/Lock.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/Lock.cpp.i
+.PHONY : store/Lock.cpp.i
+
+store/Lock.s: store/Lock.cpp.s
+
+.PHONY : store/Lock.s
+
+# target to generate assembly for a file
+store/Lock.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/Lock.cpp.s
+.PHONY : store/Lock.cpp.s
+
+store/LockFactory.o: store/LockFactory.cpp.o
+
+.PHONY : store/LockFactory.o
+
+# target to build an object file
+store/LockFactory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/LockFactory.cpp.o
+.PHONY : store/LockFactory.cpp.o
+
+store/LockFactory.i: store/LockFactory.cpp.i
+
+.PHONY : store/LockFactory.i
+
+# target to preprocess a source file
+store/LockFactory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/LockFactory.cpp.i
+.PHONY : store/LockFactory.cpp.i
+
+store/LockFactory.s: store/LockFactory.cpp.s
+
+.PHONY : store/LockFactory.s
+
+# target to generate assembly for a file
+store/LockFactory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/LockFactory.cpp.s
+.PHONY : store/LockFactory.cpp.s
+
+store/LockObtainFailedException.o: store/LockObtainFailedException.cpp.o
+
+.PHONY : store/LockObtainFailedException.o
+
+# target to build an object file
+store/LockObtainFailedException.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/LockObtainFailedException.cpp.o
+.PHONY : store/LockObtainFailedException.cpp.o
+
+store/LockObtainFailedException.i: store/LockObtainFailedException.cpp.i
+
+.PHONY : store/LockObtainFailedException.i
+
+# target to preprocess a source file
+store/LockObtainFailedException.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/LockObtainFailedException.cpp.i
+.PHONY : store/LockObtainFailedException.cpp.i
+
+store/LockObtainFailedException.s: store/LockObtainFailedException.cpp.s
+
+.PHONY : store/LockObtainFailedException.s
+
+# target to generate assembly for a file
+store/LockObtainFailedException.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/LockObtainFailedException.cpp.s
+.PHONY : store/LockObtainFailedException.cpp.s
+
+store/LockReleaseFailedException.o: store/LockReleaseFailedException.cpp.o
+
+.PHONY : store/LockReleaseFailedException.o
+
+# target to build an object file
+store/LockReleaseFailedException.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/LockReleaseFailedException.cpp.o
+.PHONY : store/LockReleaseFailedException.cpp.o
+
+store/LockReleaseFailedException.i: store/LockReleaseFailedException.cpp.i
+
+.PHONY : store/LockReleaseFailedException.i
+
+# target to preprocess a source file
+store/LockReleaseFailedException.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/LockReleaseFailedException.cpp.i
+.PHONY : store/LockReleaseFailedException.cpp.i
+
+store/LockReleaseFailedException.s: store/LockReleaseFailedException.cpp.s
+
+.PHONY : store/LockReleaseFailedException.s
+
+# target to generate assembly for a file
+store/LockReleaseFailedException.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/LockReleaseFailedException.cpp.s
+.PHONY : store/LockReleaseFailedException.cpp.s
+
+store/LockStressTest.o: store/LockStressTest.cpp.o
+
+.PHONY : store/LockStressTest.o
+
+# target to build an object file
+store/LockStressTest.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/LockStressTest.cpp.o
+.PHONY : store/LockStressTest.cpp.o
+
+store/LockStressTest.i: store/LockStressTest.cpp.i
+
+.PHONY : store/LockStressTest.i
+
+# target to preprocess a source file
+store/LockStressTest.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/LockStressTest.cpp.i
+.PHONY : store/LockStressTest.cpp.i
+
+store/LockStressTest.s: store/LockStressTest.cpp.s
+
+.PHONY : store/LockStressTest.s
+
+# target to generate assembly for a file
+store/LockStressTest.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/LockStressTest.cpp.s
+.PHONY : store/LockStressTest.cpp.s
+
+store/LockValidatingDirectoryWrapper.o: store/LockValidatingDirectoryWrapper.cpp.o
+
+.PHONY : store/LockValidatingDirectoryWrapper.o
+
+# target to build an object file
+store/LockValidatingDirectoryWrapper.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/LockValidatingDirectoryWrapper.cpp.o
+.PHONY : store/LockValidatingDirectoryWrapper.cpp.o
+
+store/LockValidatingDirectoryWrapper.i: store/LockValidatingDirectoryWrapper.cpp.i
+
+.PHONY : store/LockValidatingDirectoryWrapper.i
+
+# target to preprocess a source file
+store/LockValidatingDirectoryWrapper.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/LockValidatingDirectoryWrapper.cpp.i
+.PHONY : store/LockValidatingDirectoryWrapper.cpp.i
+
+store/LockValidatingDirectoryWrapper.s: store/LockValidatingDirectoryWrapper.cpp.s
+
+.PHONY : store/LockValidatingDirectoryWrapper.s
+
+# target to generate assembly for a file
+store/LockValidatingDirectoryWrapper.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/LockValidatingDirectoryWrapper.cpp.s
+.PHONY : store/LockValidatingDirectoryWrapper.cpp.s
+
+store/LockVerifyServer.o: store/LockVerifyServer.cpp.o
+
+.PHONY : store/LockVerifyServer.o
+
+# target to build an object file
+store/LockVerifyServer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/LockVerifyServer.cpp.o
+.PHONY : store/LockVerifyServer.cpp.o
+
+store/LockVerifyServer.i: store/LockVerifyServer.cpp.i
+
+.PHONY : store/LockVerifyServer.i
+
+# target to preprocess a source file
+store/LockVerifyServer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/LockVerifyServer.cpp.i
+.PHONY : store/LockVerifyServer.cpp.i
+
+store/LockVerifyServer.s: store/LockVerifyServer.cpp.s
+
+.PHONY : store/LockVerifyServer.s
+
+# target to generate assembly for a file
+store/LockVerifyServer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/LockVerifyServer.cpp.s
+.PHONY : store/LockVerifyServer.cpp.s
+
+store/MMapDirectory.o: store/MMapDirectory.cpp.o
+
+.PHONY : store/MMapDirectory.o
+
+# target to build an object file
+store/MMapDirectory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/MMapDirectory.cpp.o
+.PHONY : store/MMapDirectory.cpp.o
+
+store/MMapDirectory.i: store/MMapDirectory.cpp.i
+
+.PHONY : store/MMapDirectory.i
+
+# target to preprocess a source file
+store/MMapDirectory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/MMapDirectory.cpp.i
+.PHONY : store/MMapDirectory.cpp.i
+
+store/MMapDirectory.s: store/MMapDirectory.cpp.s
+
+.PHONY : store/MMapDirectory.s
+
+# target to generate assembly for a file
+store/MMapDirectory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/MMapDirectory.cpp.s
+.PHONY : store/MMapDirectory.cpp.s
+
+store/MergeInfo.o: store/MergeInfo.cpp.o
+
+.PHONY : store/MergeInfo.o
+
+# target to build an object file
+store/MergeInfo.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/MergeInfo.cpp.o
+.PHONY : store/MergeInfo.cpp.o
+
+store/MergeInfo.i: store/MergeInfo.cpp.i
+
+.PHONY : store/MergeInfo.i
+
+# target to preprocess a source file
+store/MergeInfo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/MergeInfo.cpp.i
+.PHONY : store/MergeInfo.cpp.i
+
+store/MergeInfo.s: store/MergeInfo.cpp.s
+
+.PHONY : store/MergeInfo.s
+
+# target to generate assembly for a file
+store/MergeInfo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/MergeInfo.cpp.s
+.PHONY : store/MergeInfo.cpp.s
+
+store/NIOFSDirectory.o: store/NIOFSDirectory.cpp.o
+
+.PHONY : store/NIOFSDirectory.o
+
+# target to build an object file
+store/NIOFSDirectory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/NIOFSDirectory.cpp.o
+.PHONY : store/NIOFSDirectory.cpp.o
+
+store/NIOFSDirectory.i: store/NIOFSDirectory.cpp.i
+
+.PHONY : store/NIOFSDirectory.i
+
+# target to preprocess a source file
+store/NIOFSDirectory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/NIOFSDirectory.cpp.i
+.PHONY : store/NIOFSDirectory.cpp.i
+
+store/NIOFSDirectory.s: store/NIOFSDirectory.cpp.s
+
+.PHONY : store/NIOFSDirectory.s
+
+# target to generate assembly for a file
+store/NIOFSDirectory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/NIOFSDirectory.cpp.s
+.PHONY : store/NIOFSDirectory.cpp.s
 
 store/NRTCachingDirectory.o: store/NRTCachingDirectory.cpp.o
 
@@ -575,6 +980,384 @@ store/NRTCachingDirectory.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/NRTCachingDirectory.cpp.s
 .PHONY : store/NRTCachingDirectory.cpp.s
 
+store/NativeFSLockFactory.o: store/NativeFSLockFactory.cpp.o
+
+.PHONY : store/NativeFSLockFactory.o
+
+# target to build an object file
+store/NativeFSLockFactory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/NativeFSLockFactory.cpp.o
+.PHONY : store/NativeFSLockFactory.cpp.o
+
+store/NativeFSLockFactory.i: store/NativeFSLockFactory.cpp.i
+
+.PHONY : store/NativeFSLockFactory.i
+
+# target to preprocess a source file
+store/NativeFSLockFactory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/NativeFSLockFactory.cpp.i
+.PHONY : store/NativeFSLockFactory.cpp.i
+
+store/NativeFSLockFactory.s: store/NativeFSLockFactory.cpp.s
+
+.PHONY : store/NativeFSLockFactory.s
+
+# target to generate assembly for a file
+store/NativeFSLockFactory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/NativeFSLockFactory.cpp.s
+.PHONY : store/NativeFSLockFactory.cpp.s
+
+store/NoLockFactory.o: store/NoLockFactory.cpp.o
+
+.PHONY : store/NoLockFactory.o
+
+# target to build an object file
+store/NoLockFactory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/NoLockFactory.cpp.o
+.PHONY : store/NoLockFactory.cpp.o
+
+store/NoLockFactory.i: store/NoLockFactory.cpp.i
+
+.PHONY : store/NoLockFactory.i
+
+# target to preprocess a source file
+store/NoLockFactory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/NoLockFactory.cpp.i
+.PHONY : store/NoLockFactory.cpp.i
+
+store/NoLockFactory.s: store/NoLockFactory.cpp.s
+
+.PHONY : store/NoLockFactory.s
+
+# target to generate assembly for a file
+store/NoLockFactory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/NoLockFactory.cpp.s
+.PHONY : store/NoLockFactory.cpp.s
+
+store/OutputStreamDataOutput.o: store/OutputStreamDataOutput.cpp.o
+
+.PHONY : store/OutputStreamDataOutput.o
+
+# target to build an object file
+store/OutputStreamDataOutput.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/OutputStreamDataOutput.cpp.o
+.PHONY : store/OutputStreamDataOutput.cpp.o
+
+store/OutputStreamDataOutput.i: store/OutputStreamDataOutput.cpp.i
+
+.PHONY : store/OutputStreamDataOutput.i
+
+# target to preprocess a source file
+store/OutputStreamDataOutput.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/OutputStreamDataOutput.cpp.i
+.PHONY : store/OutputStreamDataOutput.cpp.i
+
+store/OutputStreamDataOutput.s: store/OutputStreamDataOutput.cpp.s
+
+.PHONY : store/OutputStreamDataOutput.s
+
+# target to generate assembly for a file
+store/OutputStreamDataOutput.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/OutputStreamDataOutput.cpp.s
+.PHONY : store/OutputStreamDataOutput.cpp.s
+
+store/OutputStreamIndexOutput.o: store/OutputStreamIndexOutput.cpp.o
+
+.PHONY : store/OutputStreamIndexOutput.o
+
+# target to build an object file
+store/OutputStreamIndexOutput.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/OutputStreamIndexOutput.cpp.o
+.PHONY : store/OutputStreamIndexOutput.cpp.o
+
+store/OutputStreamIndexOutput.i: store/OutputStreamIndexOutput.cpp.i
+
+.PHONY : store/OutputStreamIndexOutput.i
+
+# target to preprocess a source file
+store/OutputStreamIndexOutput.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/OutputStreamIndexOutput.cpp.i
+.PHONY : store/OutputStreamIndexOutput.cpp.i
+
+store/OutputStreamIndexOutput.s: store/OutputStreamIndexOutput.cpp.s
+
+.PHONY : store/OutputStreamIndexOutput.s
+
+# target to generate assembly for a file
+store/OutputStreamIndexOutput.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/OutputStreamIndexOutput.cpp.s
+.PHONY : store/OutputStreamIndexOutput.cpp.s
+
+store/RAMDirectory.o: store/RAMDirectory.cpp.o
+
+.PHONY : store/RAMDirectory.o
+
+# target to build an object file
+store/RAMDirectory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/RAMDirectory.cpp.o
+.PHONY : store/RAMDirectory.cpp.o
+
+store/RAMDirectory.i: store/RAMDirectory.cpp.i
+
+.PHONY : store/RAMDirectory.i
+
+# target to preprocess a source file
+store/RAMDirectory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/RAMDirectory.cpp.i
+.PHONY : store/RAMDirectory.cpp.i
+
+store/RAMDirectory.s: store/RAMDirectory.cpp.s
+
+.PHONY : store/RAMDirectory.s
+
+# target to generate assembly for a file
+store/RAMDirectory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/RAMDirectory.cpp.s
+.PHONY : store/RAMDirectory.cpp.s
+
+store/RandomAccessInput.o: store/RandomAccessInput.cpp.o
+
+.PHONY : store/RandomAccessInput.o
+
+# target to build an object file
+store/RandomAccessInput.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/RandomAccessInput.cpp.o
+.PHONY : store/RandomAccessInput.cpp.o
+
+store/RandomAccessInput.i: store/RandomAccessInput.cpp.i
+
+.PHONY : store/RandomAccessInput.i
+
+# target to preprocess a source file
+store/RandomAccessInput.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/RandomAccessInput.cpp.i
+.PHONY : store/RandomAccessInput.cpp.i
+
+store/RandomAccessInput.s: store/RandomAccessInput.cpp.s
+
+.PHONY : store/RandomAccessInput.s
+
+# target to generate assembly for a file
+store/RandomAccessInput.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/RandomAccessInput.cpp.s
+.PHONY : store/RandomAccessInput.cpp.s
+
+store/RateLimitedIndexOutput.o: store/RateLimitedIndexOutput.cpp.o
+
+.PHONY : store/RateLimitedIndexOutput.o
+
+# target to build an object file
+store/RateLimitedIndexOutput.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/RateLimitedIndexOutput.cpp.o
+.PHONY : store/RateLimitedIndexOutput.cpp.o
+
+store/RateLimitedIndexOutput.i: store/RateLimitedIndexOutput.cpp.i
+
+.PHONY : store/RateLimitedIndexOutput.i
+
+# target to preprocess a source file
+store/RateLimitedIndexOutput.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/RateLimitedIndexOutput.cpp.i
+.PHONY : store/RateLimitedIndexOutput.cpp.i
+
+store/RateLimitedIndexOutput.s: store/RateLimitedIndexOutput.cpp.s
+
+.PHONY : store/RateLimitedIndexOutput.s
+
+# target to generate assembly for a file
+store/RateLimitedIndexOutput.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/RateLimitedIndexOutput.cpp.s
+.PHONY : store/RateLimitedIndexOutput.cpp.s
+
+store/RateLimiter.o: store/RateLimiter.cpp.o
+
+.PHONY : store/RateLimiter.o
+
+# target to build an object file
+store/RateLimiter.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/RateLimiter.cpp.o
+.PHONY : store/RateLimiter.cpp.o
+
+store/RateLimiter.i: store/RateLimiter.cpp.i
+
+.PHONY : store/RateLimiter.i
+
+# target to preprocess a source file
+store/RateLimiter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/RateLimiter.cpp.i
+.PHONY : store/RateLimiter.cpp.i
+
+store/RateLimiter.s: store/RateLimiter.cpp.s
+
+.PHONY : store/RateLimiter.s
+
+# target to generate assembly for a file
+store/RateLimiter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/RateLimiter.cpp.s
+.PHONY : store/RateLimiter.cpp.s
+
+store/SimpleFSLockFactory.o: store/SimpleFSLockFactory.cpp.o
+
+.PHONY : store/SimpleFSLockFactory.o
+
+# target to build an object file
+store/SimpleFSLockFactory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/SimpleFSLockFactory.cpp.o
+.PHONY : store/SimpleFSLockFactory.cpp.o
+
+store/SimpleFSLockFactory.i: store/SimpleFSLockFactory.cpp.i
+
+.PHONY : store/SimpleFSLockFactory.i
+
+# target to preprocess a source file
+store/SimpleFSLockFactory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/SimpleFSLockFactory.cpp.i
+.PHONY : store/SimpleFSLockFactory.cpp.i
+
+store/SimpleFSLockFactory.s: store/SimpleFSLockFactory.cpp.s
+
+.PHONY : store/SimpleFSLockFactory.s
+
+# target to generate assembly for a file
+store/SimpleFSLockFactory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/SimpleFSLockFactory.cpp.s
+.PHONY : store/SimpleFSLockFactory.cpp.s
+
+store/SingleInstanceLockFactory.o: store/SingleInstanceLockFactory.cpp.o
+
+.PHONY : store/SingleInstanceLockFactory.o
+
+# target to build an object file
+store/SingleInstanceLockFactory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/SingleInstanceLockFactory.cpp.o
+.PHONY : store/SingleInstanceLockFactory.cpp.o
+
+store/SingleInstanceLockFactory.i: store/SingleInstanceLockFactory.cpp.i
+
+.PHONY : store/SingleInstanceLockFactory.i
+
+# target to preprocess a source file
+store/SingleInstanceLockFactory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/SingleInstanceLockFactory.cpp.i
+.PHONY : store/SingleInstanceLockFactory.cpp.i
+
+store/SingleInstanceLockFactory.s: store/SingleInstanceLockFactory.cpp.s
+
+.PHONY : store/SingleInstanceLockFactory.s
+
+# target to generate assembly for a file
+store/SingleInstanceLockFactory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/SingleInstanceLockFactory.cpp.s
+.PHONY : store/SingleInstanceLockFactory.cpp.s
+
+store/SleepingLockWrapper.o: store/SleepingLockWrapper.cpp.o
+
+.PHONY : store/SleepingLockWrapper.o
+
+# target to build an object file
+store/SleepingLockWrapper.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/SleepingLockWrapper.cpp.o
+.PHONY : store/SleepingLockWrapper.cpp.o
+
+store/SleepingLockWrapper.i: store/SleepingLockWrapper.cpp.i
+
+.PHONY : store/SleepingLockWrapper.i
+
+# target to preprocess a source file
+store/SleepingLockWrapper.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/SleepingLockWrapper.cpp.i
+.PHONY : store/SleepingLockWrapper.cpp.i
+
+store/SleepingLockWrapper.s: store/SleepingLockWrapper.cpp.s
+
+.PHONY : store/SleepingLockWrapper.s
+
+# target to generate assembly for a file
+store/SleepingLockWrapper.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/SleepingLockWrapper.cpp.s
+.PHONY : store/SleepingLockWrapper.cpp.s
+
+store/TrackingDirectoryWrapper.o: store/TrackingDirectoryWrapper.cpp.o
+
+.PHONY : store/TrackingDirectoryWrapper.o
+
+# target to build an object file
+store/TrackingDirectoryWrapper.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/TrackingDirectoryWrapper.cpp.o
+.PHONY : store/TrackingDirectoryWrapper.cpp.o
+
+store/TrackingDirectoryWrapper.i: store/TrackingDirectoryWrapper.cpp.i
+
+.PHONY : store/TrackingDirectoryWrapper.i
+
+# target to preprocess a source file
+store/TrackingDirectoryWrapper.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/TrackingDirectoryWrapper.cpp.i
+.PHONY : store/TrackingDirectoryWrapper.cpp.i
+
+store/TrackingDirectoryWrapper.s: store/TrackingDirectoryWrapper.cpp.s
+
+.PHONY : store/TrackingDirectoryWrapper.s
+
+# target to generate assembly for a file
+store/TrackingDirectoryWrapper.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/TrackingDirectoryWrapper.cpp.s
+.PHONY : store/TrackingDirectoryWrapper.cpp.s
+
+store/VerifyingLockFactory.o: store/VerifyingLockFactory.cpp.o
+
+.PHONY : store/VerifyingLockFactory.o
+
+# target to build an object file
+store/VerifyingLockFactory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/VerifyingLockFactory.cpp.o
+.PHONY : store/VerifyingLockFactory.cpp.o
+
+store/VerifyingLockFactory.i: store/VerifyingLockFactory.cpp.i
+
+.PHONY : store/VerifyingLockFactory.i
+
+# target to preprocess a source file
+store/VerifyingLockFactory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/VerifyingLockFactory.cpp.i
+.PHONY : store/VerifyingLockFactory.cpp.i
+
+store/VerifyingLockFactory.s: store/VerifyingLockFactory.cpp.s
+
+.PHONY : store/VerifyingLockFactory.s
+
+# target to generate assembly for a file
+store/VerifyingLockFactory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/store/VerifyingLockFactory.cpp.s
+.PHONY : store/VerifyingLockFactory.cpp.s
+
+util/Equators.o: util/Equators.cpp.o
+
+.PHONY : util/Equators.o
+
+# target to build an object file
+util/Equators.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/util/Equators.cpp.o
+.PHONY : util/Equators.cpp.o
+
+util/Equators.i: util/Equators.cpp.i
+
+.PHONY : util/Equators.i
+
+# target to preprocess a source file
+util/Equators.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/util/Equators.cpp.i
+.PHONY : util/Equators.cpp.i
+
+util/Equators.s: util/Equators.cpp.s
+
+.PHONY : util/Equators.s
+
+# target to generate assembly for a file
+util/Equators.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/util/Equators.cpp.s
+.PHONY : util/Equators.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -584,9 +1367,21 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled"
+	@echo "... analysis/Analyzers.o"
+	@echo "... analysis/Analyzers.i"
+	@echo "... analysis/Analyzers.s"
+	@echo "... document/Field.o"
+	@echo "... document/Field.i"
+	@echo "... document/Field.s"
+	@echo "... index/Term.o"
+	@echo "... index/Term.i"
+	@echo "... index/Term.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... queryParser/QueryParser.o"
+	@echo "... queryParser/QueryParser.i"
+	@echo "... queryParser/QueryParser.s"
 	@echo "... search/AutomatonQuery.o"
 	@echo "... search/AutomatonQuery.i"
 	@echo "... search/AutomatonQuery.s"
@@ -626,12 +1421,87 @@ help:
 	@echo "... store/IOContext.o"
 	@echo "... store/IOContext.i"
 	@echo "... store/IOContext.s"
+	@echo "... store/IndexInput.o"
+	@echo "... store/IndexInput.i"
+	@echo "... store/IndexInput.s"
 	@echo "... store/IndexOutput.o"
 	@echo "... store/IndexOutput.i"
 	@echo "... store/IndexOutput.s"
+	@echo "... store/Lock.o"
+	@echo "... store/Lock.i"
+	@echo "... store/Lock.s"
+	@echo "... store/LockFactory.o"
+	@echo "... store/LockFactory.i"
+	@echo "... store/LockFactory.s"
+	@echo "... store/LockObtainFailedException.o"
+	@echo "... store/LockObtainFailedException.i"
+	@echo "... store/LockObtainFailedException.s"
+	@echo "... store/LockReleaseFailedException.o"
+	@echo "... store/LockReleaseFailedException.i"
+	@echo "... store/LockReleaseFailedException.s"
+	@echo "... store/LockStressTest.o"
+	@echo "... store/LockStressTest.i"
+	@echo "... store/LockStressTest.s"
+	@echo "... store/LockValidatingDirectoryWrapper.o"
+	@echo "... store/LockValidatingDirectoryWrapper.i"
+	@echo "... store/LockValidatingDirectoryWrapper.s"
+	@echo "... store/LockVerifyServer.o"
+	@echo "... store/LockVerifyServer.i"
+	@echo "... store/LockVerifyServer.s"
+	@echo "... store/MMapDirectory.o"
+	@echo "... store/MMapDirectory.i"
+	@echo "... store/MMapDirectory.s"
+	@echo "... store/MergeInfo.o"
+	@echo "... store/MergeInfo.i"
+	@echo "... store/MergeInfo.s"
+	@echo "... store/NIOFSDirectory.o"
+	@echo "... store/NIOFSDirectory.i"
+	@echo "... store/NIOFSDirectory.s"
 	@echo "... store/NRTCachingDirectory.o"
 	@echo "... store/NRTCachingDirectory.i"
 	@echo "... store/NRTCachingDirectory.s"
+	@echo "... store/NativeFSLockFactory.o"
+	@echo "... store/NativeFSLockFactory.i"
+	@echo "... store/NativeFSLockFactory.s"
+	@echo "... store/NoLockFactory.o"
+	@echo "... store/NoLockFactory.i"
+	@echo "... store/NoLockFactory.s"
+	@echo "... store/OutputStreamDataOutput.o"
+	@echo "... store/OutputStreamDataOutput.i"
+	@echo "... store/OutputStreamDataOutput.s"
+	@echo "... store/OutputStreamIndexOutput.o"
+	@echo "... store/OutputStreamIndexOutput.i"
+	@echo "... store/OutputStreamIndexOutput.s"
+	@echo "... store/RAMDirectory.o"
+	@echo "... store/RAMDirectory.i"
+	@echo "... store/RAMDirectory.s"
+	@echo "... store/RandomAccessInput.o"
+	@echo "... store/RandomAccessInput.i"
+	@echo "... store/RandomAccessInput.s"
+	@echo "... store/RateLimitedIndexOutput.o"
+	@echo "... store/RateLimitedIndexOutput.i"
+	@echo "... store/RateLimitedIndexOutput.s"
+	@echo "... store/RateLimiter.o"
+	@echo "... store/RateLimiter.i"
+	@echo "... store/RateLimiter.s"
+	@echo "... store/SimpleFSLockFactory.o"
+	@echo "... store/SimpleFSLockFactory.i"
+	@echo "... store/SimpleFSLockFactory.s"
+	@echo "... store/SingleInstanceLockFactory.o"
+	@echo "... store/SingleInstanceLockFactory.i"
+	@echo "... store/SingleInstanceLockFactory.s"
+	@echo "... store/SleepingLockWrapper.o"
+	@echo "... store/SleepingLockWrapper.i"
+	@echo "... store/SleepingLockWrapper.s"
+	@echo "... store/TrackingDirectoryWrapper.o"
+	@echo "... store/TrackingDirectoryWrapper.i"
+	@echo "... store/TrackingDirectoryWrapper.s"
+	@echo "... store/VerifyingLockFactory.o"
+	@echo "... store/VerifyingLockFactory.i"
+	@echo "... store/VerifyingLockFactory.s"
+	@echo "... util/Equators.o"
+	@echo "... util/Equators.i"
+	@echo "... util/Equators.s"
 .PHONY : help
 
 

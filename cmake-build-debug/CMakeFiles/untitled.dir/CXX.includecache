@@ -6,21 +6,35 @@
 
 #IncludeRegexTransform: 
 
-/Users/ervin/workspace/untitled/store/AlreadyClosedException.cpp
+/Users/ervin/workspace/untitled/store/Directory.h
+vector
+-
+IndexOutput.h
+/Users/ervin/workspace/untitled/store/IndexOutput.h
+IOContext.h
+/Users/ervin/workspace/untitled/store/IOContext.h
 
-/Users/ervin/workspace/untitled/store/BaseDirectory.cpp
+/Users/ervin/workspace/untitled/store/IOContext.h
+string
+-
+vector
+-
+stdexcept
+-
+any
+-
+utility
+-
+cassert
+-
 
-/Users/ervin/workspace/untitled/store/BufferedChecksum.cpp
+/Users/ervin/workspace/untitled/store/IndexOutput.h
 
-/Users/ervin/workspace/untitled/store/BufferedChecksumIndexInput.cpp
+/Users/ervin/workspace/untitled/store/RAMDirectory.cpp
+RAMDirectory.h
+/Users/ervin/workspace/untitled/store/RAMDirectory.h
 
-/Users/ervin/workspace/untitled/store/BufferedIndexInput.cpp
-
-/Users/ervin/workspace/untitled/store/ByteArrayDataInput.cpp
-
-/Users/ervin/workspace/untitled/store/ByteArrayDataOutput.cpp
-
-/Users/ervin/workspace/untitled/store/ByteBufferGuard.cpp
-
-/Users/ervin/workspace/untitled/store/ByteBufferIndexInput.cpp
+/Users/ervin/workspace/untitled/store/RAMDirectory.h
+Directory.h
+/Users/ervin/workspace/untitled/store/Directory.h
 

@@ -7,7 +7,7 @@
 
 #include "Directory.h"
 
-namespace finddit::yaco::store {
+namespace finddit::engine::store {
 
     class FilterDirectory : public Directory {
 

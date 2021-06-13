@@ -1,0 +1,14 @@
+//
+// Created by Ervin Bosenbacher on 13/06/2021.
+//
+
+#ifndef UNTITLED_LOCKRELEASEFAILEDEXCEPTION_H
+#define UNTITLED_LOCKRELEASEFAILEDEXCEPTION_H
+
+
+class LockReleaseFailedException {
+
+};
+
+
+#endif //UNTITLED_LOCKRELEASEFAILEDEXCEPTION_H

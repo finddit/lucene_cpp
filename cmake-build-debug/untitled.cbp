@@ -44,6 +44,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/Users/ervin/workspace/untitled/util"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include"/>
@@ -65,6 +66,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/Users/ervin/workspace/untitled/util"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include"/>
@@ -80,7 +82,31 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/ervin/workspace/untitled/analysis/Analyzers.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/analysis/Analyzers.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/document/Field.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/document/Field.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/index/Term.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/index/Term.h">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/Users/ervin/workspace/untitled/main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/queryParser/QueryParser.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/queryParser/QueryParser.h">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/ervin/workspace/untitled/search/AutomatonQuery.cpp">
@@ -161,16 +187,169 @@
 		<Unit filename="/Users/ervin/workspace/untitled/store/IOContext.h">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/IndexInput.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/IndexInput.h">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/Users/ervin/workspace/untitled/store/IndexOutput.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/ervin/workspace/untitled/store/IndexOutput.h">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/Lock.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/Lock.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/LockFactory.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/LockFactory.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/LockObtainFailedException.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/LockObtainFailedException.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/LockReleaseFailedException.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/LockReleaseFailedException.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/LockStressTest.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/LockStressTest.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/LockValidatingDirectoryWrapper.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/LockValidatingDirectoryWrapper.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/LockVerifyServer.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/LockVerifyServer.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/MMapDirectory.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/MMapDirectory.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/MergeInfo.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/MergeInfo.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/NIOFSDirectory.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/NIOFSDirectory.h">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/Users/ervin/workspace/untitled/store/NRTCachingDirectory.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/ervin/workspace/untitled/store/NRTCachingDirectory.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/NativeFSLockFactory.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/NativeFSLockFactory.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/NoLockFactory.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/NoLockFactory.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/OutputStreamDataOutput.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/OutputStreamDataOutput.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/OutputStreamIndexOutput.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/OutputStreamIndexOutput.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/RAMDirectory.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/RAMDirectory.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/RandomAccessInput.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/RandomAccessInput.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/RateLimitedIndexOutput.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/RateLimitedIndexOutput.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/RateLimiter.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/RateLimiter.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/SimpleFSLockFactory.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/SimpleFSLockFactory.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/SingleInstanceLockFactory.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/SingleInstanceLockFactory.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/SleepingLockWrapper.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/SleepingLockWrapper.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/TrackingDirectoryWrapper.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/TrackingDirectoryWrapper.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/VerifyingLockFactory.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/store/VerifyingLockFactory.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/util/Equators.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/util/Equators.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/ervin/workspace/untitled/util/VoidMap.h">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/ervin/workspace/untitled/CMakeLists.txt">

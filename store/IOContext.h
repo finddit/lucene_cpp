@@ -12,7 +12,7 @@
 #include <utility>
 #include <cassert>
 
-namespace finddit::yaco::store {
+namespace finddit::engine::store {
 
     class IOContext {
     public:

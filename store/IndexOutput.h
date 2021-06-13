@@ -5,7 +5,7 @@
 #ifndef UNTITLED_INDEXOUTPUT_H
 #define UNTITLED_INDEXOUTPUT_H
 
-namespace finddit::yaco::store {
+namespace finddit::engine::store {
 
     class IndexOutput {
 

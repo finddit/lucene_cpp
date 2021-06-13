@@ -3,6 +3,9 @@
 
 CMakeFiles/untitled.dir/main.cpp.o
  /Users/ervin/workspace/untitled/main.cpp
+CMakeFiles/untitled.dir/search/AutomatonQuery.cpp.o
+ /Users/ervin/workspace/untitled/search/AutomatonQuery.cpp
+ /Users/ervin/workspace/untitled/search/AutomatonQuery.h
 CMakeFiles/untitled.dir/store/AlreadyClosedException.cpp.o
  /Users/ervin/workspace/untitled/store/AlreadyClosedException.cpp
 CMakeFiles/untitled.dir/store/BaseDirectory.cpp.o
@@ -26,9 +29,97 @@ CMakeFiles/untitled.dir/store/Directory.cpp.o
  /Users/ervin/workspace/untitled/store/Directory.h
  /Users/ervin/workspace/untitled/store/IOContext.h
  /Users/ervin/workspace/untitled/store/IndexOutput.h
+CMakeFiles/untitled.dir/store/FilterDirectory.cpp.o
+ /Users/ervin/workspace/untitled/store/Directory.h
+ /Users/ervin/workspace/untitled/store/FilterDirectory.cpp
+ /Users/ervin/workspace/untitled/store/FilterDirectory.h
+ /Users/ervin/workspace/untitled/store/IOContext.h
+ /Users/ervin/workspace/untitled/store/IndexOutput.h
 CMakeFiles/untitled.dir/store/IOContext.cpp.o
  /Users/ervin/workspace/untitled/store/IOContext.cpp
  /Users/ervin/workspace/untitled/store/IOContext.h
+CMakeFiles/untitled.dir/store/IndexInput.cpp.o
+ ../util/Equators.h
+ /Users/ervin/workspace/untitled/store/IndexInput.cpp
+ /Users/ervin/workspace/untitled/store/IndexInput.h
 CMakeFiles/untitled.dir/store/IndexOutput.cpp.o
  /Users/ervin/workspace/untitled/store/IndexOutput.cpp
  /Users/ervin/workspace/untitled/store/IndexOutput.h
+CMakeFiles/untitled.dir/store/Lock.cpp.o
+ /Users/ervin/workspace/untitled/store/Lock.cpp
+ /Users/ervin/workspace/untitled/store/Lock.h
+CMakeFiles/untitled.dir/store/LockFactory.cpp.o
+ /Users/ervin/workspace/untitled/store/LockFactory.cpp
+ /Users/ervin/workspace/untitled/store/LockFactory.h
+CMakeFiles/untitled.dir/store/LockObtainFailedException.cpp.o
+ /Users/ervin/workspace/untitled/store/LockObtainFailedException.cpp
+ /Users/ervin/workspace/untitled/store/LockObtainFailedException.h
+CMakeFiles/untitled.dir/store/LockReleaseFailedException.cpp.o
+ /Users/ervin/workspace/untitled/store/LockReleaseFailedException.cpp
+ /Users/ervin/workspace/untitled/store/LockReleaseFailedException.h
+CMakeFiles/untitled.dir/store/LockStressTest.cpp.o
+ /Users/ervin/workspace/untitled/store/LockStressTest.cpp
+ /Users/ervin/workspace/untitled/store/LockStressTest.h
+CMakeFiles/untitled.dir/store/LockValidatingDirectoryWrapper.cpp.o
+ /Users/ervin/workspace/untitled/store/LockValidatingDirectoryWrapper.cpp
+ /Users/ervin/workspace/untitled/store/LockValidatingDirectoryWrapper.h
+CMakeFiles/untitled.dir/store/LockVerifyServer.cpp.o
+ /Users/ervin/workspace/untitled/store/LockVerifyServer.cpp
+ /Users/ervin/workspace/untitled/store/LockVerifyServer.h
+CMakeFiles/untitled.dir/store/MMapDirectory.cpp.o
+ /Users/ervin/workspace/untitled/store/MMapDirectory.cpp
+ /Users/ervin/workspace/untitled/store/MMapDirectory.h
+CMakeFiles/untitled.dir/store/MergeInfo.cpp.o
+ /Users/ervin/workspace/untitled/store/MergeInfo.cpp
+ /Users/ervin/workspace/untitled/store/MergeInfo.h
+CMakeFiles/untitled.dir/store/NIOFSDirectory.cpp.o
+ /Users/ervin/workspace/untitled/store/NIOFSDirectory.cpp
+ /Users/ervin/workspace/untitled/store/NIOFSDirectory.h
+CMakeFiles/untitled.dir/store/NRTCachingDirectory.cpp.o
+ /Users/ervin/workspace/untitled/store/NRTCachingDirectory.cpp
+ /Users/ervin/workspace/untitled/store/NRTCachingDirectory.h
+CMakeFiles/untitled.dir/store/NativeFSLockFactory.cpp.o
+ /Users/ervin/workspace/untitled/store/NativeFSLockFactory.cpp
+ /Users/ervin/workspace/untitled/store/NativeFSLockFactory.h
+CMakeFiles/untitled.dir/store/NoLockFactory.cpp.o
+ /Users/ervin/workspace/untitled/store/NoLockFactory.cpp
+ /Users/ervin/workspace/untitled/store/NoLockFactory.h
+CMakeFiles/untitled.dir/store/OutputStreamDataOutput.cpp.o
+ /Users/ervin/workspace/untitled/store/OutputStreamDataOutput.cpp
+ /Users/ervin/workspace/untitled/store/OutputStreamDataOutput.h
+CMakeFiles/untitled.dir/store/OutputStreamIndexOutput.cpp.o
+ /Users/ervin/workspace/untitled/store/OutputStreamIndexOutput.cpp
+ /Users/ervin/workspace/untitled/store/OutputStreamIndexOutput.h
+CMakeFiles/untitled.dir/store/RAMDirectory.cpp.o
+ /Users/ervin/workspace/untitled/store/Directory.h
+ /Users/ervin/workspace/untitled/store/IOContext.h
+ /Users/ervin/workspace/untitled/store/IndexOutput.h
+ /Users/ervin/workspace/untitled/store/RAMDirectory.cpp
+ /Users/ervin/workspace/untitled/store/RAMDirectory.h
+CMakeFiles/untitled.dir/store/RandomAccessInput.cpp.o
+ /Users/ervin/workspace/untitled/store/RandomAccessInput.cpp
+ /Users/ervin/workspace/untitled/store/RandomAccessInput.h
+CMakeFiles/untitled.dir/store/RateLimitedIndexOutput.cpp.o
+ /Users/ervin/workspace/untitled/store/RateLimitedIndexOutput.cpp
+ /Users/ervin/workspace/untitled/store/RateLimitedIndexOutput.h
+CMakeFiles/untitled.dir/store/RateLimiter.cpp.o
+ /Users/ervin/workspace/untitled/store/RateLimiter.cpp
+ /Users/ervin/workspace/untitled/store/RateLimiter.h
+CMakeFiles/untitled.dir/store/SimpleFSLockFactory.cpp.o
+ /Users/ervin/workspace/untitled/store/SimpleFSLockFactory.cpp
+ /Users/ervin/workspace/untitled/store/SimpleFSLockFactory.h
+CMakeFiles/untitled.dir/store/SingleInstanceLockFactory.cpp.o
+ /Users/ervin/workspace/untitled/store/SingleInstanceLockFactory.cpp
+ /Users/ervin/workspace/untitled/store/SingleInstanceLockFactory.h
+CMakeFiles/untitled.dir/store/SleepingLockWrapper.cpp.o
+ /Users/ervin/workspace/untitled/store/SleepingLockWrapper.cpp
+ /Users/ervin/workspace/untitled/store/SleepingLockWrapper.h
+CMakeFiles/untitled.dir/store/TrackingDirectoryWrapper.cpp.o
+ /Users/ervin/workspace/untitled/store/TrackingDirectoryWrapper.cpp
+ /Users/ervin/workspace/untitled/store/TrackingDirectoryWrapper.h
+CMakeFiles/untitled.dir/store/VerifyingLockFactory.cpp.o
+ /Users/ervin/workspace/untitled/store/VerifyingLockFactory.cpp
+ /Users/ervin/workspace/untitled/store/VerifyingLockFactory.h
+CMakeFiles/untitled.dir/util/Equators.cpp.o
+ /Users/ervin/workspace/untitled/util/Equators.cpp
+ /Users/ervin/workspace/untitled/util/Equators.h

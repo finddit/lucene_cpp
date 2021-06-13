@@ -3,6 +3,8 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 20)
 
+INCLUDE_DIRECTORIES( ${untitled_SOURCE_DIR}/util )
+
 add_executable(
         untitled
         main.cpp
@@ -35,4 +37,52 @@ add_executable(
         store/FilterDirectory.cpp
         store/FilterDirectory.h
         search/AutomatonQuery.cpp
-        search/AutomatonQuery.h)
+        search/AutomatonQuery.h
+        store/VerifyingLockFactory.cpp
+        store/VerifyingLockFactory.h
+        store/TrackingDirectoryWrapper.cpp
+        store/TrackingDirectoryWrapper.h
+        store/SleepingLockWrapper.cpp
+        store/SleepingLockWrapper.h
+        store/SingleInstanceLockFactory.cpp
+        store/SingleInstanceLockFactory.h
+        store/SimpleFSLockFactory.cpp
+        store/SimpleFSLockFactory.h
+        store/RateLimiter.cpp
+        store/RateLimiter.h
+        store/RateLimitedIndexOutput.cpp
+        store/RateLimitedIndexOutput.h
+        store/RandomAccessInput.cpp
+        store/RandomAccessInput.h
+        store/OutputStreamIndexOutput.cpp
+        store/OutputStreamIndexOutput.h
+        store/OutputStreamDataOutput.cpp
+        store/OutputStreamDataOutput.h
+        store/NoLockFactory.cpp
+        store/NoLockFactory.h
+        store/NativeFSLockFactory.cpp
+        store/NativeFSLockFactory.h
+        store/NIOFSDirectory.cpp
+        store/NIOFSDirectory.h
+        store/MergeInfo.cpp
+        store/MergeInfo.h
+        store/MMapDirectory.cpp
+        store/MMapDirectory.h
+        store/LockVerifyServer.cpp
+        store/LockVerifyServer.h
+        store/LockValidatingDirectoryWrapper.cpp
+        store/LockValidatingDirectoryWrapper.h
+        store/LockStressTest.cpp
+        store/LockStressTest.h
+        store/LockReleaseFailedException.cpp
+        store/LockReleaseFailedException.h
+        store/LockObtainFailedException.cpp
+        store/LockObtainFailedException.h
+        store/LockFactory.cpp
+        store/LockFactory.h
+        store/Lock.cpp
+        store/Lock.h
+        store/IndexInput.cpp
+        store/IndexInput.h
+        util/Equators.cpp
+        util/Equators.h store/RAMDirectory.cpp store/RAMDirectory.h util/VoidMap.h index/Term.cpp index/Term.h document/Field.cpp document/Field.h analysis/Analyzers.cpp analysis/Analyzers.h queryParser/QueryParser.cpp queryParser/QueryParser.h)

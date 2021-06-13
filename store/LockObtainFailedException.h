@@ -1,0 +1,14 @@
+//
+// Created by Ervin Bosenbacher on 13/06/2021.
+//
+
+#ifndef UNTITLED_LOCKOBTAINFAILEDEXCEPTION_H
+#define UNTITLED_LOCKOBTAINFAILEDEXCEPTION_H
+
+
+class LockObtainFailedException {
+
+};
+
+
+#endif //UNTITLED_LOCKOBTAINFAILEDEXCEPTION_H

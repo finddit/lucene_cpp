@@ -6,11 +6,11 @@
 #define UNTITLED_AUTOMATONQUERY_H
 
 
-namespace finddit::yaco::search {
+namespace finddit::engine::search {
 
-    /// forward declarations, for now
-    class MultiTermQuery;
-    class Accountable;
+    /// todo: implement
+    class MultiTermQuery {};
+    class Accountable  {};
 
 
     class AutomatonQuery : public MultiTermQuery, public Accountable {

@@ -10,7 +10,7 @@
 #include "IndexOutput.h"
 #include "IOContext.h"
 
-namespace finddit::yaco::store {
+namespace finddit::engine::store {
 
     /**
      * A {@code Directory} provides an abstraction layer for storing a list of files. A directory
